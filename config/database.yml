@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: blog_dev
+  username: aleesha
+  password:
+  pool: 5
+  encoding: unicode
